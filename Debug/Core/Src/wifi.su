@@ -1,0 +1,3 @@
+../Core/Src/wifi.c:36:6:wifi_test	8	static
+../Core/Src/wifi.c:43:6:wifi_connect	8	static
+../Core/Src/wifi.c:51:6:ESP32_SendDataToThingSpeak	16	static
